@@ -1,1 +1,1 @@
-# Cursour-smoke-effect
+# Cursour-smoke-effect.
